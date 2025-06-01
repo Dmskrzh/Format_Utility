@@ -1,0 +1,3 @@
+select volume E
+format fs=FAT32 label=TETS unit=4096 quick
+exit
